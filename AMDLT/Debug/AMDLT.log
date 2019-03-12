@@ -1,0 +1,71 @@
+﻿  stdafx.cpp
+f:\program\amdlt1\amdlt\stdafx.cpp(23): warning C4018: “<”: 有符号/无符号不匹配
+  SIFT_Matcher.cpp
+f:\program\amdlt1\amdlt\sift_matcher.cpp(27): warning C4018: “<”: 有符号/无符号不匹配
+f:\program\amdlt1\amdlt\sift_matcher.cpp(31): warning C4018: “<”: 有符号/无符号不匹配
+f:\program\amdlt1\amdlt\sift_matcher.cpp(59): warning C4018: “<”: 有符号/无符号不匹配
+f:\program\amdlt1\amdlt\sift_matcher.cpp(94): warning C4018: “<”: 有符号/无符号不匹配
+f:\program\amdlt1\amdlt\sift_matcher.cpp(114): warning C4018: “<”: 有符号/无符号不匹配
+f:\program\amdlt1\amdlt\sift_matcher.cpp(116): warning C4018: “<”: 有符号/无符号不匹配
+f:\program\amdlt1\amdlt\sift_matcher.cpp(229): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+f:\program\amdlt1\amdlt\sift_matcher.cpp(233): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\program\amdlt1\amdlt\sift_matcher.cpp(234): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\program\amdlt1\amdlt\sift_matcher.cpp(235): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\program\amdlt1\amdlt\sift_matcher.cpp(236): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\program\amdlt1\amdlt\sift_matcher.cpp(237): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\program\amdlt1\amdlt\sift_matcher.cpp(249): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  RANSAC_Processor.cpp
+f:\program\amdlt1\amdlt\ransac_processor.cpp(6): warning C4018: “<”: 有符号/无符号不匹配
+f:\program\amdlt1\amdlt\ransac_processor.cpp(14): warning C4018: “<”: 有符号/无符号不匹配
+f:\program\amdlt1\amdlt\ransac_processor.cpp(27): warning C4018: “<”: 有符号/无符号不匹配
+f:\program\amdlt1\amdlt\ransac_processor.cpp(42): warning C4018: “<”: 有符号/无符号不匹配
+f:\program\amdlt1\amdlt\ransac_processor.cpp(54): warning C4018: “<”: 有符号/无符号不匹配
+f:\program\amdlt1\amdlt\ransac_processor.cpp(79): warning C4018: “<”: 有符号/无符号不匹配
+  MBS.cpp
+f:\program\amdlt1\amdlt\mbs.cpp(46): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\program\amdlt1\amdlt\mbs.cpp(94): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+f:\program\amdlt1\amdlt\mbs.cpp(95): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+f:\program\amdlt1\amdlt\mbs.cpp(176): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\program\amdlt1\amdlt\mbs.cpp(177): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\program\amdlt1\amdlt\mbs.cpp(231): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\program\amdlt1\amdlt\mbs.cpp(492): warning C4018: “<”: 有符号/无符号不匹配
+f:\program\amdlt1\amdlt\mbs.cpp(521): warning C4018: “<”: 有符号/无符号不匹配
+f:\program\amdlt1\amdlt\mbs.cpp(522): warning C4018: “<”: 有符号/无符号不匹配
+f:\program\amdlt1\amdlt\mbs.cpp(558): warning C4018: “<”: 有符号/无符号不匹配
+  MathUtils.cpp
+f:\program\amdlt1\amdlt\mathutils.cpp(60): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+  main.cpp
+  Homography.cpp
+  GridBox.cpp
+  APAP_Processor.cpp
+f:\program\amdlt1\amdlt\apap_processor.cpp(19): warning C4018: “<”: 有符号/无符号不匹配
+f:\program\amdlt1\amdlt\apap_processor.cpp(83): warning C4018: “<”: 有符号/无符号不匹配
+f:\program\amdlt1\amdlt\apap_processor.cpp(115): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+f:\program\amdlt1\amdlt\apap_processor.cpp(116): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+f:\program\amdlt1\amdlt\apap_processor.cpp(126): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\program\amdlt1\amdlt\apap_processor.cpp(127): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\program\amdlt1\amdlt\apap_processor.cpp(128): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\program\amdlt1\amdlt\apap_processor.cpp(129): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\program\amdlt1\amdlt\apap_processor.cpp(117): warning C4101: “min_y”: 未引用的局部变量
+f:\program\amdlt1\amdlt\apap_processor.cpp(117): warning C4101: “min_x”: 未引用的局部变量
+f:\program\amdlt1\amdlt\apap_processor.cpp(226): warning C4018: “<”: 有符号/无符号不匹配
+f:\program\amdlt1\amdlt\apap_processor.cpp(227): warning C4018: “<”: 有符号/无符号不匹配
+f:\program\amdlt1\amdlt\apap_processor.cpp(480): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+f:\program\amdlt1\amdlt\apap_processor.cpp(481): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+f:\program\amdlt1\amdlt\apap_processor.cpp(482): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+f:\program\amdlt1\amdlt\apap_processor.cpp(570): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+f:\program\amdlt1\amdlt\apap_processor.cpp(571): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+f:\program\amdlt1\amdlt\apap_processor.cpp(572): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+f:\program\amdlt1\amdlt\apap_processor.cpp(581): warning C4018: “<”: 有符号/无符号不匹配
+f:\program\amdlt1\amdlt\apap_processor.cpp(582): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\program\amdlt1\amdlt\apap_processor.cpp(583): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\program\amdlt1\amdlt\apap_processor.cpp(584): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\program\amdlt1\amdlt\apap_processor.cpp(587): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+f:\program\amdlt1\amdlt\apap_processor.cpp(588): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+f:\program\amdlt1\amdlt\apap_processor.cpp(589): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+  正在生成代码...
+f:\program\amdlt1\amdlt\apap_processor.cpp(582): warning C4700: 使用了未初始化的局部变量“bSum”
+f:\program\amdlt1\amdlt\apap_processor.cpp(583): warning C4700: 使用了未初始化的局部变量“gSum”
+f:\program\amdlt1\amdlt\apap_processor.cpp(584): warning C4700: 使用了未初始化的局部变量“rSum”
+  AMDLT.vcxproj -> F:\Program\AMDLT1\Debug\AMDLT.exe
+  AMDLT.vcxproj -> F:\Program\AMDLT1\Debug\AMDLT.pdb (Full PDB)

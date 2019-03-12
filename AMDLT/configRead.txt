@@ -1,0 +1,13 @@
+本文档“config.txt”的参数说明
+第一行：gamma
+第二行：sigma
+第三行：C1
+第四行：C2
+第五行：SIFT_Threshold
+第六行：Sampling_Rate
+第七行：Sp_Size
+第八行：RANSAC_Threshold
+第九行：画布的宽度width
+第十行：画布的高度height
+第十一行：图像在x轴方向上的偏移x_offset
+第十二行：图像在y轴方向上的偏移y_offset

@@ -1,0 +1,73 @@
+﻿  APAP_Processor.cpp
+APAP_Processor.cpp(19): warning C4018: “<”: 有符号/无符号不匹配
+APAP_Processor.cpp(83): warning C4018: “<”: 有符号/无符号不匹配
+APAP_Processor.cpp(115): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+APAP_Processor.cpp(116): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+APAP_Processor.cpp(126): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+APAP_Processor.cpp(127): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+APAP_Processor.cpp(128): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+APAP_Processor.cpp(129): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+APAP_Processor.cpp(117): warning C4101: “min_y”: 未引用的局部变量
+APAP_Processor.cpp(117): warning C4101: “min_x”: 未引用的局部变量
+APAP_Processor.cpp(227): warning C4018: “<”: 有符号/无符号不匹配
+APAP_Processor.cpp(228): warning C4018: “<”: 有符号/无符号不匹配
+APAP_Processor.cpp(481): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+APAP_Processor.cpp(482): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+APAP_Processor.cpp(483): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+APAP_Processor.cpp(571): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+APAP_Processor.cpp(572): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+APAP_Processor.cpp(573): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+APAP_Processor.cpp(582): warning C4018: “<”: 有符号/无符号不匹配
+APAP_Processor.cpp(583): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+APAP_Processor.cpp(584): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+APAP_Processor.cpp(585): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+APAP_Processor.cpp(588): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+APAP_Processor.cpp(589): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+APAP_Processor.cpp(590): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+  GridBox.cpp
+  Homography.cpp
+  main.cpp
+  MathUtils.cpp
+MathUtils.cpp(60): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+  MBS.cpp
+MBS.cpp(45): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+MBS.cpp(93): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+MBS.cpp(94): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+MBS.cpp(175): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+MBS.cpp(176): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+MBS.cpp(230): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+MBS.cpp(491): warning C4018: “<”: 有符号/无符号不匹配
+MBS.cpp(520): warning C4018: “<”: 有符号/无符号不匹配
+MBS.cpp(521): warning C4018: “<”: 有符号/无符号不匹配
+MBS.cpp(557): warning C4018: “<”: 有符号/无符号不匹配
+MBS.cpp(579): warning C4018: “<”: 有符号/无符号不匹配
+MBS.cpp(594): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+MBS.cpp(609): warning C4018: “<”: 有符号/无符号不匹配
+  RANSAC_Processor.cpp
+RANSAC_Processor.cpp(6): warning C4018: “<”: 有符号/无符号不匹配
+RANSAC_Processor.cpp(14): warning C4018: “<”: 有符号/无符号不匹配
+RANSAC_Processor.cpp(27): warning C4018: “<”: 有符号/无符号不匹配
+RANSAC_Processor.cpp(41): warning C4018: “<”: 有符号/无符号不匹配
+RANSAC_Processor.cpp(53): warning C4018: “<”: 有符号/无符号不匹配
+RANSAC_Processor.cpp(78): warning C4018: “<”: 有符号/无符号不匹配
+  SIFT_Matcher.cpp
+SIFT_Matcher.cpp(27): warning C4018: “<”: 有符号/无符号不匹配
+SIFT_Matcher.cpp(31): warning C4018: “<”: 有符号/无符号不匹配
+SIFT_Matcher.cpp(59): warning C4018: “<”: 有符号/无符号不匹配
+SIFT_Matcher.cpp(94): warning C4018: “<”: 有符号/无符号不匹配
+SIFT_Matcher.cpp(114): warning C4018: “<”: 有符号/无符号不匹配
+SIFT_Matcher.cpp(116): warning C4018: “<”: 有符号/无符号不匹配
+SIFT_Matcher.cpp(229): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+SIFT_Matcher.cpp(233): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+SIFT_Matcher.cpp(234): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+SIFT_Matcher.cpp(235): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+SIFT_Matcher.cpp(236): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+SIFT_Matcher.cpp(237): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+SIFT_Matcher.cpp(249): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  stdafx.cpp
+stdafx.cpp(25): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  All 5874 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  AMDLT.vcxproj -> F:\Program\AMDLT1\Release\AMDLT.exe
+  AMDLT.vcxproj -> F:\Program\AMDLT1\Release\AMDLT.pdb (Full PDB)
