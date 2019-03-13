@@ -15,3 +15,8 @@ We calculate the mapping matrix for each superpixel.<br>
 ### step3
 We map and transform each super pixel to get a stitching image. The picture below shows the result of stitching.<br>
 ![](https://github.com/GenaWang/superpixel_image_stitching/raw/master/image_show/railtrack_ours.jpg)
+<br>
+Here we take a look at the difference between our experiment and the AutoStitching. Here's the AutoStitching result.<br>
+![](https://github.com/GenaWang/superpixel_image_stitching/raw/master/image_show/railtrack_AutoStitchMarked.jpg)
+<br>
+The results of the two images were compared. We can see that our method has the same effect as APAP. Our method can eliminate the problem of ghosting and dislocation in the process of image stitching.
