@@ -20,3 +20,5 @@ Here we take a look at the difference between our experiment and the AutoStitchi
 ![](https://github.com/GenaWang/superpixel_image_stitching/raw/master/image_show/railtrack_AutoStitchMarked.jpg)
 <br>
 The results of the two images were compared. We can see that our method has the same effect as APAP. Our method can eliminate the problem of ghosting and dislocation in the process of image stitching.
+## Result
+Here we tested the Mosaic time of ten groups of pictures. Meanwhile, the splicing time of APAP was compared. Here are the results.<br>
