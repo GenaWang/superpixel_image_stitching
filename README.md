@@ -6,7 +6,7 @@ Super - pixel - based fast image stitching code implementation. We take the supe
 Our program runs on windows8.1. Compile and run with Visual Studio 2015. You need three external dependencies to help you compile and run the code. The three external dependency libraries are:opencv3.3.0、Eigen3、 TinyVLib and vlfeat-0.9.20-bin.<br>
 ## Compile
 You can refer to the "readme.docx" documentation for instructions. The detailed compilation process is described in this document.
-## stitching process
+## Stitching Process
 We illustrate the experimental process with the scene of railway tracks. The image stitching process is divided into three steps.
 ### step1
 The image to be spliced is divided into super pixels. The following figure is the result of super-pixel division of the image.<br>
