@@ -26,3 +26,5 @@ The results of the two images were compared. We can see that our method has the 
 Here we tested the Mosaic time of ten groups of pictures. Meanwhile, the splicing time of APAP was compared. Here are the results.<br>
 ![](https://github.com/GenaWang/superpixel_image_stitching/raw/master/image_show/time.jpg)
 <br>
+## Conclusion
+First of all, our algorithm has the same alignment ability as APAP algorithm. Secondly, our algorithm greatly improves the speed of image stitching. Compared with the running speed of APAP algorithm, the running time of our program is almost improved by an order of magnitude.
