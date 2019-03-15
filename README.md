@@ -3,7 +3,7 @@ In this paper, the image is spliced based on super pixel.
 ## Introduction
 Super - pixel - based fast image stitching code implementation. We take the superpixel as the alignment unit and separately calculate the mapping transformation matrix of each superpixel. With the same alignment effect as APAP, we can greatly reduce the time of image stitching.<br>
 ## Requirements
-Our program runs on windows8.1. Compile and run with Visual Studio 2015. You need three external dependencies to help you compile and run the code. The three external dependency libraries are:opencv3.3.0、Eigen3、 TinyVLib and vlfeat-0.9.20-bin.<br>
+Our program runs on windows8.1. Compile and run with Visual Studio 2015. You need four external dependencies to help you compile and run the code. The four external dependency libraries are:opencv3.3.0、Eigen3、 TinyVLib and vlfeat-0.9.20-bin.<br>
 ## Compile
 You can refer to the "readme.docx" documentation for instructions. The detailed compilation process is described in this document.
 ## Stitching Process
@@ -23,7 +23,7 @@ Here we take a look at the difference between our experiment and the AutoStitchi
 <br>
 The results of the two images were compared. We can see that our method has the same effect as APAP. Our method can eliminate the problem of ghosting and dislocation in the process of image stitching.
 ## Result
-Here we tested the Mosaic time of ten groups of pictures. Meanwhile, the splicing time of APAP was compared. Here are the results.<br>
+Here we tested the stitching time of ten groups of pictures. Meanwhile, the splicing time of APAP was compared. Here are the results.<br>
 ![](https://github.com/GenaWang/superpixel_image_stitching/raw/master/image_show/time.jpg)
 <br>
 ## Conclusion
